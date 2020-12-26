@@ -1,0 +1,44 @@
+body {
+  background-image: url("../Images/heartfailure_1280.jpg");
+  background-size: cover;
+}
+
+#left_c {
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+}
+#right_c {
+  background: rgba(197, 179, 182, 0.7);
+}
+p {
+  font-weight: bolder;
+  color: green;
+  text-align: left;
+}
+h1 {
+  color: firebrick;
+}
+
+ul {
+  text-align: justify;
+  color: yellow;
+}
+h2 {
+  color: black;
+}
+
+label {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.form-control {
+  background: rgb(0, 0, 0, 0.5);
+  color: white;
+  height: 40px;
+}
+
+.modal-title {
+  margin-left: 26%;
+  margin-right: 17%;
+}
